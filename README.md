@@ -1,2 +1,2 @@
 # Basic-html-css-and-javascript
-My first scripts as I started learning html for web development
+Most basic script of html, css and a bit of JavaScript (icluding some jQuery)
